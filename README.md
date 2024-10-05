@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Argentina 🇦🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CDFC6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,10 +13,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer with a passion for creating engaging and user-friendly web applications. Although I'm relatively new to the industry, I'm constantly expanding my skills and knowledge to stay up-to-date with the latest technologies and best practices.
+I'm a professional in the field of programming with a passion for creating engaging and user-friendly web applications. My skill set includes languages such as Java, Python, C++, and JavaScript. I have experience in developing web and mobile applications, as well as managing SQL and NoSQL databases.
 
-- 🌱 I'm currently deepening my knowledge in **React**, **TypeScript**, and **State Management**
-- 💼 Open to new opportunities and collaborations
+- 🚀 Proficient in frameworks like Angular and React
+- 🤝 Strong teamwork skills and efficient problem-solving abilities
+- 📚 Always adapting to new technological challenges
+- 💡 Passionate about technology and continuous learning
+- 🌱 Currently deepening my knowledge in **React**, **TypeScript**, and **State Management**
+- 💼 Eager to contribute my knowledge and skills in a dynamic and collaborative work environment
 - 📫 How to reach me: **var.nelson15@gmail.com**
 
 ## 🛠️ Technologies & Tools
@@ -56,7 +60,7 @@ I'm a Frontend Developer with a passion for creating engaging and user-friendly 
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nelson-vargas-470893254/" target="_blank">
+  <a href="https://www.linkedin.com/in/nelson-vargas-470893254/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:var.nelson15@gmail.com">
