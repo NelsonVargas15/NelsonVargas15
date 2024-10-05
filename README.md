@@ -56,7 +56,7 @@ I'm a Frontend Developer with a passion for creating engaging and user-friendly 
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nelson-vargas-639bab188" target="_blank">
+  <a href="https://www.linkedin.com/in/nelson-vargas-470893254/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:var.nelson15@gmail.com">
