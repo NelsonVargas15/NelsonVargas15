@@ -19,7 +19,7 @@ I'm a professional in the field of programming with a passion for creating engag
 - 🤝 Strong teamwork skills and efficient problem-solving abilities
 - 📚 Always adapting to new technological challenges
 - 💡 Passionate about technology and continuous learning
-- 🌱 Currently deepening my knowledge in **React**, **TypeScript**, and **State Management**
+- 🌱 Currently deepening my knowledge in **React**, **JavaScript**, and **State Management**
 - 💼 Eager to contribute my knowledge and skills in a dynamic and collaborative work environment
 - 📫 How to reach me: **var.nelson15@gmail.com**
 
